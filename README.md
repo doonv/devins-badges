@@ -1,4 +1,4 @@
-# ![Devin's Badges: Many beautifully designed badges for many services. Shows some of the badges as examples](assets/v1/db-assets/banner_512h.png)
+# ![Devin's Badges: Many beautifully designed badges for many services. Shows some of the badges as examples](https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/db-assets/banner_512h.png)
 ## ❓ About
 This is Devin's Badges! A project I work on in my spare time that contains cool badges for you to use in your projects.
 
@@ -12,10 +12,10 @@ All you really need to do is copy these depending on what file type you are usin
 Check out the [assets](https://github.com/intergrav/devins-badges/tree/main/assets) folder to see all the badge types. I don't have a website for badge picking currently, but that might come in the future if anyone feels like making one.
 
 #### Markdown
-`[![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/main/assets/v1/~category~/~badge~_64h.png)](~link~)`
+`[![~alttext~](https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png)](~link~)`
 
 #### HTML
-`<a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/main/assets/v1/~category~/~badge~_64h.png" alt="~alttext~"></a>`
+`<a href="~link~"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v1/assets/~category~/~badge~_64h.png" alt="~alttext~"></a>`
 
 Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
 
